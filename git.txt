@@ -1,3 +1,8 @@
 aaaaaaaaa
 
 bbbbbbbbb
+
+git add
+git commit
+
+aaaaaa
